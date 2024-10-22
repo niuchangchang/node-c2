@@ -1,0 +1,13 @@
+{
+  "name": "node-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koffi": "^2.9.0"
+  }
+}
